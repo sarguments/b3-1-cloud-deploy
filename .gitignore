@@ -1,0 +1,9 @@
+# 로컬 환경과 비밀정보
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# 개인 키
+*.pem
+*.key
